@@ -1,0 +1,10 @@
+6
+sprite_sheet daciolo assets/spritesheets/Daciolo.png 2 8
+sprite_sheet bolsonaro assets/spritesheets/Bolsonaro.png 2 8
+sprite_sheet marina assets/spritesheets/Marina.png 2 8
+sprite_sheet fundo assets/spritesheets/Background.png 0 1
+sprite_sheet zumbi assets/spritesheets/Zumbi.png 2 3
+sprite_sheet nokia assets/spritesheets/Nokia.png 1 4
+
+
+audio gloria assets/Gloria.wav
